@@ -1,5 +1,8 @@
 # Final Project: Movies industry success predictions and insights
 
+![image](https://user-images.githubusercontent.com/96190122/156390528-b692879b-ca50-4271-9366-c4390c130c28.png)
+
+
 **Authors:** Biagio Girlando; Lok Ming Bosco Au-Yeung
 
 **Objective:** The goal is to build a model to predict worldwide box office performance as well as provide insights on succesfull and prolific producers, genres, directors and cast.
