@@ -8,14 +8,14 @@
 The data will be scraped from 3 sources and joined in one dataset.
 
 - The Numbers:
- Link: https://www.the-numbers.com/movie/budgets/all
- Info collected: budget, worldwide box office
+ -Link: https://www.the-numbers.com/movie/budgets/all
+ -Info collected: budget, worldwide box office
 
 - IMDB:
- Link: https://www.imdb.com/
- Info collected: User rating, main cast
+ -Link: https://www.imdb.com/
+ -Info collected: User rating, main cast
  
 - Rotten Tomatoes
- Link: https://www.rottentomatoes.com
- Info collected: Critic rating, user rating, director, genre, distributor
+ -Link: https://www.rottentomatoes.com
+ -Info collected: Critic rating, user rating, director, genre, distributor
 
