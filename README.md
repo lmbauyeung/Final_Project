@@ -16,7 +16,7 @@ The data will be scraped from 3 sources and joined in one dataset.
 - Rotten Tomatoes
    - Link: https://www.rottentomatoes.com (Info collected: Critic rating, user rating, director, genre, distributor)
 
-**Plan:**
+**Brief outline action plan:**
 1. Web scraping
 - Collect info from "The Numbers" as the information on budget and box office is the most difficult to find on the web for different movies. Scrape additional info from IMDB and Rotten Tomatoes creating a unified DF by using the title name as the primary key.
 
