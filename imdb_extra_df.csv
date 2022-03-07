@@ -765,7 +765,7 @@ rating_check,runtime,genre,director
 5.1,['87'],"['Action', 'Adventure', 'Comedy', 'Family', 'Fantasy']",Lawrence Guterman
 6.1,['101'],"['Comedy', 'Romance']",Marc Lawrence
 5.5,['92'],"['Action', 'Adventure', 'Fantasy']",Chuck Russell
-,,"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy']",Domee Shi
+,['111'],"['Action', 'Comedy', 'Crime', 'Thriller']",Robert Schwentke
 6.1,['101'],"['Comedy', 'Crime']",Todd Phillips
 5.5,['94'],"['Adventure', 'Comedy', 'Family']",Adam Shankman
 5.8,['133'],"['Biography', 'Drama', 'Romance']",Ryan Murphy
