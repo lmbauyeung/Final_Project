@@ -765,7 +765,7 @@ rating_check,runtime,genre,director
 5.1,['87'],"['Action', 'Adventure', 'Comedy', 'Family', 'Fantasy']",Lawrence Guterman
 6.1,['101'],"['Comedy', 'Romance']",Marc Lawrence
 5.5,['92'],"['Action', 'Adventure', 'Fantasy']",Chuck Russell
-,['111'],"['Action', 'Comedy', 'Crime', 'Thriller']",Robert Schwentke
+7.0,['111'],"['Action', 'Comedy', 'Crime', 'Thriller']",Robert Schwentke
 6.1,['101'],"['Comedy', 'Crime']",Todd Phillips
 5.5,['94'],"['Adventure', 'Comedy', 'Family']",Adam Shankman
 5.8,['133'],"['Biography', 'Drama', 'Romance']",Ryan Murphy
@@ -2557,7 +2557,7 @@ rating_check,runtime,genre,director
 5.8,['105'],"['Crime', 'Drama', 'Music', 'Mystery', 'Thriller']",Kasi Lemmons
 6.3,['108'],"['Drama', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']",Jonathan Glazer
 8.0,['126'],"['Biography', 'Drama']",Alejandro Amenábar
-5.6,['84'],,Sam Miller
+5.6,['84'],['Thriller'],Sam Miller
 8.0,['108'],"['Drama', 'Thriller']",Darren Aronofsky
 6.2,['112'],"['Drama', 'Music', 'Romance']",Thomas Carter
 1.7,['105'],"['Documentary', 'Music']",Jon M. Chu
